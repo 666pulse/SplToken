@@ -11,3 +11,11 @@ Discord:  wiki9999
 Youtube:  https://www.youtube.com/@cryptobeastchain
 
 Medium: https://medium.com/coinmonks/how-to-use-solana-token-spl-operations-using-rust-anchor-framework-d2c86fad8162
+
+---
+
+# quicknode blog
+
+https://www.quicknode.com/guides/solana-development/anchor/create-tokens
+
+https://beta.solpg.io/64e50b1a6f50baeacc2cd460
